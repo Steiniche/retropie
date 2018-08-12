@@ -1,6 +1,10 @@
 # Retropie
 
-## Fix danish keyboard
+## Locale
+
+Set locale to en_DA-UTF8
+
+### Fix danish keyboard
 
 sudo vim /etc/default/keyboard
 
