@@ -21,3 +21,9 @@ Use bluetooth
 Player 1 will be blue
 
 Player 2 will be red
+
+## Scraper
+
+To install the scraper go into Retropie Setup -> Manage packages -> opt -> 830 scraper -> install from source
+
+When installed it will be visible in the context menu (enter) and can add descriptions and thumbnails to all games
