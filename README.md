@@ -15,4 +15,5 @@ Use bluetooth
 ### Controller LED
 
 Player 1 will be blue
+
 Player 2 will be red
