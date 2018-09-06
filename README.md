@@ -1,5 +1,8 @@
 # Retropie
 
+This project is a collaboration about how to setup retropie.
+It is opinionated towards a danish setup.
+
 ## Locale
 
 Set locale to en_DA-UTF8
